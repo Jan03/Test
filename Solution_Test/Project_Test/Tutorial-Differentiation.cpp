@@ -9,7 +9,7 @@ Language/ver     : C++ in MSVS2019
 Description      : [Tutorial]Differentiation.cpp
 -------------------------------------------------------------------------------*/
 
-#include "myNM.h"
+#include "../../include/myNM.h"
 
 // Define a function that defines the target equation.
 double myFunc(const double x);
