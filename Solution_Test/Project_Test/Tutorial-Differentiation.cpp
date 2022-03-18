@@ -4,7 +4,7 @@
 Author           : Jan Park
 Created          : 10-05-2021
 Modified         : 10-05-2021
-Language/ver     : C++ in MSVS2019
+Language/ver     : C++ in MSVS2019 // 20-202
 
 Description      : [Tutorial]Differentiation.cpp
 -------------------------------------------------------------------------------*/
