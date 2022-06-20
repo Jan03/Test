@@ -14,7 +14,7 @@ thresh_V_delete = 1.5
 thresh_V_BR1 = 8.0
 thresh_V_BR2 = 5.5
 thresh_X_diff_BR2_1 = 4
-thresh_X_diff_BR2_2 = 15
+thresh_X_diff_BR2_2 = 15000000000000000000000000000000000000000000000000000
 range_V_invalid = 0.1
 N_window = 10
 
